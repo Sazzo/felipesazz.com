@@ -8,7 +8,9 @@
     <div class="font-main py-6 text-center space-y-3 sm:py-60 sm:text-left">
       <h2 class="text-blue text-xl">Hello there!</h2>
       <h1 class="text-weakwhite text-6xl">I'm Sazz</h1>
-      <p class="text-white max-w-xl text-center sm:max-w-2xl sm:text-left">
+      <p
+        class="text-white px-2 max-w-xl text-center sm:max-w-2xl sm:text-left sm:px-0"
+      >
         I'm a full-stack developer (or at least trying), passionate about anime
         and building highly scalable things. I'm interested in DevOps and
         Elixir!
