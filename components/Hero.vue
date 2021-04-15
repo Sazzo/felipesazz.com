@@ -19,6 +19,17 @@
         <Button value="Projects" />
         <Button value="Posts" />
       </div>
+      <ChevronDown class="animate-bounce w-16 bottom-0" />
     </div>
   </div>
 </template>
+
+<script lang="ts">
+import Vue from 'vue'
+import ChevronDown from './SVGS/ChevronDown.vue'
+export default Vue.extend({
+  components: {
+    ChevronDown
+  }
+})
+</script>

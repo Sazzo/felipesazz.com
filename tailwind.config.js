@@ -15,6 +15,12 @@ module.exports = {
       },
       maxWidth: {
         xs: '20rem'
+      },
+      zIndex: {
+        '-1': '-1'
+      },
+      padding: {
+        '94': '94rem'
       }
     }
   }
